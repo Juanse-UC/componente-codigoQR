@@ -13,4 +13,8 @@ Se utiliza CSS Flexbox para centrar los elementos y box-shadow para darle un asp
 ![](design/desktop-design.jpg)
 ![](design/mobile-design.jpg)
 
+## Enlace
+
+https://componente-codigo-qr.vercel.app/
+
 
